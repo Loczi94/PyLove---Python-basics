@@ -1,0 +1,73 @@
+Luke Skywalker waży 77 kg, jest mężczyzną i pochodzi z Tatooine.
+Darth Vader waży 136 kg, jest mężczyzną i pochodzi z Tatooine.
+Leia Organa waży 49 kg, jest kobietą i pochodzi z Alderaan.
+Owen Lars waży 120 kg, jest mężczyzną i pochodzi z Tatooine.
+Beru Whitesun lars waży 75 kg, jest kobietą i pochodzi z Tatooine.
+Biggs Darklighter waży 84 kg, jest mężczyzną i pochodzi z Tatooine.
+Obi-Wan Kenobi waży 77 kg, jest mężczyzną i pochodzi z Stewjon.
+Anakin Skywalker waży 84 kg, jest mężczyzną i pochodzi z Tatooine.
+Wilhuff Tarkin waży unknown kg, jest mężczyzną i pochodzi z Eriadu.
+Chewbacca waży 112 kg, jest mężczyzną i pochodzi z Kashyyyk.
+Han Solo waży 80 kg, jest mężczyzną i pochodzi z Corellia.
+Greedo waży 74 kg, jest mężczyzną i pochodzi z Rodia.
+Wedge Antilles waży 77 kg, jest mężczyzną i pochodzi z Corellia.
+Jek Tono Porkins waży 110 kg, jest mężczyzną i pochodzi z Bestine IV.
+Yoda waży 17 kg, jest mężczyzną i pochodzi z unknown.
+Palpatine waży 75 kg, jest mężczyzną i pochodzi z Naboo.
+Boba Fett waży 78.2 kg, jest mężczyzną i pochodzi z Kamino.
+Bossk waży 113 kg, jest mężczyzną i pochodzi z Trandosha.
+Lando Calrissian waży 79 kg, jest mężczyzną i pochodzi z Socorro.
+Lobot waży 79 kg, jest mężczyzną i pochodzi z Bespin.
+Ackbar waży 83 kg, jest mężczyzną i pochodzi z Mon Cala.
+Mon Mothma waży unknown kg, jest kobietą i pochodzi z Chandrila.
+Arvel Crynyd waży unknown kg, jest mężczyzną i pochodzi z unknown.
+Wicket Systri Warrick waży 20 kg, jest mężczyzną i pochodzi z Endor.
+Nien Nunb waży 68 kg, jest mężczyzną i pochodzi z Sullust.
+Qui-Gon Jinn waży 89 kg, jest mężczyzną i pochodzi z unknown.
+Nute Gunray waży 90 kg, jest mężczyzną i pochodzi z Cato Neimoidia.
+Finis Valorum waży unknown kg, jest mężczyzną i pochodzi z Coruscant.
+PadmÃ© Amidala waży 45 kg, jest kobietą i pochodzi z Naboo.
+Jar Jar Binks waży 66 kg, jest mężczyzną i pochodzi z Naboo.
+Roos Tarpals waży 82 kg, jest mężczyzną i pochodzi z Naboo.
+Rugor Nass waży unknown kg, jest mężczyzną i pochodzi z Naboo.
+Ric OliÃ© waży unknown kg, jest mężczyzną i pochodzi z Naboo.
+Watto waży unknown kg, jest mężczyzną i pochodzi z Toydaria.
+Sebulba waży 40 kg, jest mężczyzną i pochodzi z Malastare.
+Quarsh Panaka waży unknown kg, jest mężczyzną i pochodzi z Naboo.
+Shmi Skywalker waży unknown kg, jest kobietą i pochodzi z Tatooine.
+Darth Maul waży 80 kg, jest mężczyzną i pochodzi z Dathomir.
+Bib Fortuna waży unknown kg, jest mężczyzną i pochodzi z Ryloth.
+Ayla Secura waży 55 kg, jest kobietą i pochodzi z Ryloth.
+Ratts Tyerell waży 15 kg, jest mężczyzną i pochodzi z Aleen Minor.
+Dud Bolt waży 45 kg, jest mężczyzną i pochodzi z Vulpter.
+Gasgano waży unknown kg, jest mężczyzną i pochodzi z Troiken.
+Ben Quadinaros waży 65 kg, jest mężczyzną i pochodzi z Tund.
+Mace Windu waży 84 kg, jest mężczyzną i pochodzi z Haruun Kal.
+Ki-Adi-Mundi waży 82 kg, jest mężczyzną i pochodzi z Cerea.
+Kit Fisto waży 87 kg, jest mężczyzną i pochodzi z Glee Anselm.
+Eeth Koth waży unknown kg, jest mężczyzną i pochodzi z Iridonia.
+Adi Gallia waży 50 kg, jest kobietą i pochodzi z Coruscant.
+Saesee Tiin waży unknown kg, jest mężczyzną i pochodzi z Iktotch.
+Yarael Poof waży unknown kg, jest mężczyzną i pochodzi z Quermia.
+Plo Koon waży 80 kg, jest mężczyzną i pochodzi z Dorin.
+Mas Amedda waży unknown kg, jest mężczyzną i pochodzi z Champala.
+Gregar Typho waży 85 kg, jest mężczyzną i pochodzi z Naboo.
+CordÃ© waży unknown kg, jest kobietą i pochodzi z Naboo.
+Cliegg Lars waży unknown kg, jest mężczyzną i pochodzi z Tatooine.
+Poggle the Lesser waży 80 kg, jest mężczyzną i pochodzi z Geonosis.
+Luminara Unduli waży 56.2 kg, jest kobietą i pochodzi z Mirial.
+Barriss Offee waży 50 kg, jest kobietą i pochodzi z Mirial.
+DormÃ© waży unknown kg, jest kobietą i pochodzi z Naboo.
+Dooku waży 80 kg, jest mężczyzną i pochodzi z Serenno.
+Bail Prestor Organa waży unknown kg, jest mężczyzną i pochodzi z Alderaan.
+Jango Fett waży 79 kg, jest mężczyzną i pochodzi z Concord Dawn.
+Zam Wesell waży 55 kg, jest kobietą i pochodzi z Zolan.
+Dexter Jettster waży 102 kg, jest mężczyzną i pochodzi z Ojom.
+Lama Su waży 88 kg, jest mężczyzną i pochodzi z Kamino.
+Taun We waży unknown kg, jest kobietą i pochodzi z Kamino.
+Jocasta Nu waży unknown kg, jest kobietą i pochodzi z Coruscant.
+R4-P17 waży unknown kg, jest kobietą i pochodzi z unknown.
+Wat Tambor waży 48 kg, jest mężczyzną i pochodzi z Skako.
+San Hill waży unknown kg, jest mężczyzną i pochodzi z Muunilinst.
+Shaak Ti waży 57 kg, jest kobietą i pochodzi z Shili.
+Grievous waży 159 kg, jest mężczyzną i pochodzi z Kalee.

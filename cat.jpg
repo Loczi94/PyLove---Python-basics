@@ -1,0 +1,3 @@
+<form action="http://py.net/cat" method="post">
+<button type="submit">Click to continue.</button>
+</form>
